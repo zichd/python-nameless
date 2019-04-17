@@ -32,4 +32,4 @@ deploy:
   provider: pypi
   user: "zichd"
   password: "ELHHmtiF68PzhW7"
-  server: https://test.pypi.org/legacy
+  server: https://test.pypi.org/legacy/
