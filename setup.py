@@ -24,7 +24,7 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='nameless',
+    name='dznameless',
     version='0.0.1',
     license='BSD 2-Clause License',
     description='An example package. Generated with cookiecutter-pylibrary.',
