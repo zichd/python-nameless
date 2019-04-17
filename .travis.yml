@@ -30,6 +30,6 @@ notifications:
     on_failure: always
 deploy:
   provider: pypi
-  user: "Your username"
-  password: "Your password"
+  user: "zichd"
+  password: "ELHHmtiF68PzhW7"
   server: https://test.pypi.org/simple/
