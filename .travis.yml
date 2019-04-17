@@ -32,3 +32,4 @@ deploy:
   provider: pypi
   user: "Your username"
   password: "Your password"
+  server: https://test.pypi.org/simple/
